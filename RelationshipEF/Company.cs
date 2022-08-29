@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace RelationshipEF
 {
+    //The principal entity
     internal class Company
     {
         public int Id { get; set; }
