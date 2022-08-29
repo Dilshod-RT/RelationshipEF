@@ -2,5 +2,5 @@
 
 using (ApplicationContext db = new ApplicationContext())
 {
-    Console.WriteLine("hi");
+    Console.WriteLine("Hello world!");
 }
